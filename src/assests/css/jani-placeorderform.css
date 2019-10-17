@@ -1,0 +1,70 @@
+.jani-placeorder-main {
+position: fixed;
+    width: 1166px;
+    height: 594px;
+    margin-left: 200px;
+    background-image: url("../images/placeorder.jpg");
+    color: white;
+}
+.jani-placeorder-main-name{
+    height: 60px;
+    width:1166px;
+    left: 20px;
+    top: 20px;
+    color: white;
+    padding: 10px;
+    background-color: rgba(79, 31, 56, 0.69);
+    font-size: 30px;
+
+}
+.jani-placeorder-sub{
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.69);
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 480px;
+}
+.jani-placeorder-sub-vertical{
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 200px;
+    height: 234px;
+    border: 1px solid #fbfff8;
+}
+.jani-placeorder-sub-button{
+    position: absolute;
+    left: 20px;
+    top:400px;
+}
+.jani-placeorder-sub-vertical1{
+    position: absolute;
+    height: 430px;
+    border:1px solid white;
+    left:430px;
+    top:110px;
+}
+.jani-placeorder-sub-table{
+    width:660px;
+    height: 428px;
+    position: absolute;
+    left: 455px;
+    top:112px;
+    background-color: rgba(55, 228, 208, 0.52);
+}
+.jani-left{
+    margin-top: 23px;
+}
+.jani-right{
+    margin-top: -230px;
+    margin-left: 200px;
+}
+.jani-qty{
+    margin-left: 200px;
+}
+.jani-quantity{
+    position: absolute;
+    margin-left: 60px;
+    margin-top: -33px;
+    font-size: 20px;
+    font-family: "Segoe UI Historic";
+}

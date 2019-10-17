@@ -1,0 +1,37 @@
+.jani-dashboard-main{
+    width: 1166px;
+    height:594px;
+    position: absolute;
+    margin-left:200px;
+    /*background-image: url("../images/dash.jpg");*/
+    background-color: #313a3a;
+    color:white;
+}
+
+
+.jani-dashboard-main-name{
+    height: 60px;
+    width:1166px;
+    left: 20px;
+    top: 20px;
+    color: white;
+    padding: 10px;
+    background-color: rgba(39, 77, 79, 0.62);
+    font-size: 30px;
+
+}
+.chart{
+    margin-top: 30px;
+    width: 1060px;
+    margin-left: 40px;
+
+}
+.chart-background{
+z-index: 9;
+    margin-top: -68px;
+    height: 600px;
+    width: 1170px;
+    background-image: url("../images/dash.jpg");
+    opacity: 0.4;
+    position: fixed;
+}

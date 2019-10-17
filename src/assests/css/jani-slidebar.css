@@ -1,0 +1,126 @@
+.jani-slidebar {
+    position: fixed;
+    height: 100%;
+    width: 200px;
+    background-image: url("../images/slider.jpg");
+}
+
+.jani-slidebar-logo {
+    height: 167px;
+    background-color: rgba(0, 0, 0, 0.6);
+
+}
+
+.jani-slider-logo-avatar {
+    top: 10px;
+    position: absolute;
+    border-radius: 50%;
+    left: 56px;
+    height: 80px;
+    width: 80px;
+    background-image: url("../images/avatar-logo.jpg");
+}
+
+.jani-slidebar-logo h1 {
+    position: absolute;
+    color: greenyellow;
+    font-size: 64px;
+    margin-top: 39px;
+    left: 55px;
+}
+
+.jani-slidebar-logo h6 {
+    position: absolute;
+    margin-top: 90px;
+    left: 74px;
+    font-weight: bold;
+    color: white;
+}
+
+.jani-slidebar-logo h5 {
+    position: absolute;
+    margin-top: 116px;
+    margin-left: 18px;
+    color: #afecff;
+
+}
+
+.jani-sidebar-menu-letters1 {
+    font-size: 23px;
+    background-color: rgba(24, 24, 24, 0.69);
+    padding: 17px;
+    text-align: center;
+    width: 200px;
+    position: absolute;
+    color: white;
+
+}
+
+.jani-sidebar-menu-letters2 {
+    margin-top: 77px;
+    font-size: 23px;
+    background-color: rgba(24, 24, 24, 0.69);
+    padding: 17px;
+    text-align: center;
+    width: 200px;
+    position: absolute;
+    color: white;
+
+}
+
+.jani-sidebar-menu-letters3 {
+    margin-top: 154px;
+    font-size: 23px;
+    background-color: rgba(24, 24, 24, 0.69);
+    padding: 17px;
+    text-align: center;
+    width: 200px;
+    position: absolute;
+    color: white;
+
+}
+
+.jani-sidebar-menu-letters4 {
+    margin-top: 231px;
+    font-size: 23px;
+    background-color: rgba(24, 24, 24, 0.69);
+    padding: 17px;
+    text-align: center;
+    width: 200px;
+    position: absolute;
+    color: white;
+
+}
+
+.jani-sidebar-menu-letters1:hover {
+    font-size: 27px;
+    color: white;
+    background-color: black;
+    padding: 14px;
+
+}
+
+.jani-sidebar-menu-letters2:hover {
+    font-size: 27px;
+    color: white;
+    background-color: black;
+    padding: 14px;
+
+}
+
+.jani-sidebar-menu-letters3:hover {
+    font-size: 27px;
+    color: white;
+    background-color: black;
+    padding: 14px;
+
+}
+
+.jani-sidebar-menu-letters4:hover {
+    font-size: 27px;
+    background-color: black;
+    color: white;
+    padding: 14px;
+
+}
+

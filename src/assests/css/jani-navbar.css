@@ -1,0 +1,148 @@
+.jani-navbar{
+    width:100%;
+    height: 60px;
+    background: #9CECFB;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0052D4, #65C7F7, #9CECFB);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0052D4, #65C7F7, #9CECFB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.jani-navbar-search{
+    position: absolute;
+    margin-top: 16px;
+    border: 1px solid #40b7ff;
+    height: 27px;
+    width: 600px;
+    margin-left: 300px;
+    border-radius: 9px;
+    font-size: 12px;
+}
+/*.jani-navbar-search-button{*/
+    /*position: absolute;*/
+    /*left: 905px;*/
+    /*height: 27px;*/
+    /*width: 64px;*/
+    /*top: 16px;*/
+    /*border-radius: 9px;*/
+    /*border: 1px solid blue;*/
+/*}*/
+/*.jani-navbar-search-button:hover{*/
+    /*background-color: greenyellow;*/
+    /*color: red;*/
+/*}*/
+.jani-navbar-logo{
+    position: absolute;
+    height: 30px;
+    width: 119px;
+    margin-top: 15px;
+    margin-left: 40px;
+    background-image: url("../images/jani-logo.png");
+}
+.jani-navbar-message{
+    position:absolute;
+    top: 15px;
+    left:1100px;
+    height:30px;
+    width: 30px;
+    border-radius: 6px ;
+    background-color: #9bebfb;
+    background-image: url("../images/chat.png");
+
+}
+.jani-navbar-message:hover{
+    background-color: white;
+}
+.jani-navbar-notification{
+    position:absolute;
+    top: 15px;
+    left:1160px;
+    height:30px;
+    width: 30px;
+    border-radius: 6px ;
+    background-color: #9bebfb;
+    background-image: url("../images/notification.png");
+
+}
+.jani-navbar-notification:hover{
+    background-color: white;
+}
+.jani-navbar-task{
+    position:absolute;
+    top: 15px;
+    left:1220px;
+    height:30px;
+    width: 30px;
+    border-radius: 6px ;
+    background-color: #9bebfb;
+    background-image: url("../images/task.png");
+
+}
+.jani-navbar-task:hover{
+    background-color: white;
+}
+.label-message{
+
+    text-align: center;
+    font-size: 9px;
+    padding: 2px 3px;
+    color: #fbfff8;
+    line-height: .9;
+    background-color: #ff7daa;
+    top: -8px;
+    right: -7px;
+    position: absolute;
+    border-radius: 50%;
+}
+.label-message:hover{
+    background-color: green;
+    color: black;
+}
+.label-notification{
+
+    text-align: center;
+    font-size: 9px;
+    padding: 2px 3px;
+    color: white;
+    line-height: .9;
+    background-color: #ffae47;
+    top: -8px;
+    right: -7px;
+    position: absolute;
+    border-radius: 50%;
+}
+.label-notification:hover{
+    background-color: #801d1a;
+    color: #37e4d0;
+}
+.label-task{
+
+    text-align: center;
+    font-size: 9px;
+    padding: 2px 3px;
+    color: white;
+    line-height: .9;
+    background-color: #a691ff;
+    top: -8px;
+    right: -7px;
+    position: absolute;
+    border-radius: 50%;
+}
+.label-task:hover{
+    position: absolute;
+    left: 1250px;
+    background-color: #5a7a80;
+    color: black;
+
+}
+.jani-navbar-avatar {
+    position: absolute;
+    left: 1300px;
+    margin-top: 10px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-image: url("../images/avatar.jpg");
+}
+.jani-navbar-avatar:hover{
+    background-image: url("../images/logout.png");
+}
+

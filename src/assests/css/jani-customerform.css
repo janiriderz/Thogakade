@@ -1,0 +1,41 @@
+.jani-customerform-main {
+    width: 1166px;
+    height: 594px;
+    position: absolute;
+    margin-left: 200px;
+    background-image: url("../images/main.jpg");
+    color: white;
+}
+
+.jani-customerform-main-name {
+    height: 60px;
+    width: 1166px;
+    left: 20px;
+    top: 20px;
+    color: white;
+    padding: 10px;
+    background-color: rgba(75, 19, 79, 0.62);
+    font-size: 30px;
+
+}
+
+.jani-customerform-sub {
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.69);
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 440px;
+}
+
+.jani-customerform-name {
+    padding-left: 40px;
+    padding-top: 30px;
+
+}
+
+
+.jani-customerform-button {
+    margin-top: 10px;
+    padding: 40px;
+
+}
